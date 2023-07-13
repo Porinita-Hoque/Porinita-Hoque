@@ -9,8 +9,8 @@
   <summary>📊 Overall Stats</summary>
   <br/>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Porinita's streak" src="https://streak-stats.demolab.com?user=porinita-hoque&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&hide_current_streak=true"/>
+  <a>
+	  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Porinita's streak" src="https://streak-stats.demolab.com?user=porinita-hoque&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&hide_current_streak=true"/>
   </a>
 </p>
 </details>
@@ -31,8 +31,9 @@
 <details>
   <summary>⚡ Recent Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Porinita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=porinita-hoque&theme=dracula" /></a>
-  <br/>
+   <a>
+	   <img alt="Porinita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=porinita-hoque&theme=dracula" />
+   </a>
 </details>
 
 
