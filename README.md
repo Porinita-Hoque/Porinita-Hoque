@@ -1,4 +1,4 @@
-# <p align="center"> Hi, I am Porinita Hoque ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </p>
+# <p align="center"> Hi, I'm Porinita Hoque !</p>
 
 ## <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=277CF7&width=435&lines=Master's+student+in+Computer+Science;Machine+Learning+Enthusiast!;Always+Eager+to+Learn+New+Things!;Love+Reading%2C+Cycling%2C+Travelling!" alt="Typing SVG" /></a> </p>
 
